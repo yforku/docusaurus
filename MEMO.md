@@ -17,6 +17,17 @@ node -v
 ## Install Docusaurus-Init
 ```
 sudo npm install --global docusaurus-init
+sudo npm install --global yarn
 
 ```
+
+## XX
+```
+docusaurus-init
+cd website
+npm start
+
+```
+
+See localhost:3000
 
