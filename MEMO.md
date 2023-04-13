@@ -14,3 +14,9 @@ node -v
 
 ```
 
+## Install Docusaurus-Init
+```
+sudo npm install --global docusaurus-init
+
+```
+
