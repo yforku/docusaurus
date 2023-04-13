@@ -21,7 +21,7 @@ sudo npm install --global yarn
 
 ```
 
-## XX
+## New WebSite
 ```
 docusaurus-init
 cd website
@@ -29,5 +29,27 @@ npm start
 
 ```
 
-See localhost:3000
+## See localhost:3000
+
+## XX
+
+* website/pages/en/hello-world.js
+* docs/doc9.md
+  * website/sidebars.json
+
+## docusaurus-tutorial/website/siteConfig.js
+```
+const siteConfig = {
+  ...
+  url: 'https://USERNAME.github.io', // Replace USERNAME with your GitHub username.
+  baseUrl: '/base/', // The name of your GitHub project.
+  projectName: 'base',  // The name of your GitHub project. Same as above.
+  organizationName: 'USERNAME' // Your GitHub username.
+  ...
+}
+
+```
+
+## npm run build
+
 
