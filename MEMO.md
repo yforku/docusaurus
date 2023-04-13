@@ -5,4 +5,9 @@
 ```
 sudo aptitude install nodejs npm -y
 ```
+* Check NODE (> v.8)
+```
+node -v
+```
+
 
