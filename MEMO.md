@@ -14,12 +14,3 @@ node -v
 
 ```
 
-## Yarn is in package "cmdtest"
-```
-dpkg-query --listfiles cmdtest | grep yarn
-sudo aptitude install cmdtest -y
-
-```
-
-
-
