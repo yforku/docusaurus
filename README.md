@@ -61,5 +61,5 @@ GIT_USER=cbkadal CURRENT_BRANCH=master USE_SSH=true npm run publish-gh-pages
 
 ```
 
-##### Yes, Fork You (yforku)! --- Revisi 19c 16-Apr-2023
+##### Yes, Fork You (yforku)! --- Revisi 19d 16-Apr-2023
 
