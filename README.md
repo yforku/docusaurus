@@ -52,5 +52,5 @@ const siteConfig = {
 
 ## npm run build
 
-##### Yes, Fork You (yforku)! --- Revisi 19a 16-Apr-2023
+##### Yes, Fork You (yforku)! --- Revisi 19b 16-Apr-2023
 
