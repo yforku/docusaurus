@@ -52,4 +52,4 @@ const siteConfig = {
 
 ## npm run build
 
-#### Revisi 19 16-Apr-2023
+#### Revisi 19a 16-Apr-2023
